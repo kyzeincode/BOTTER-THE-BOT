@@ -11,7 +11,6 @@ EL BOT PERFECTO PARA RECLAMAR LIMITEDS GRATIS
   - [✍ Configuración](#-configuración)
     - [📋 Instalación](#guia-de-instalación-)
     - [⚙️ Configuración](#️--configuración-basica)
-    - []()
   - [💪 Características](#--características)
   - [🔰 Soporte](https://discord.gg/C8C7zFPs93)
 
