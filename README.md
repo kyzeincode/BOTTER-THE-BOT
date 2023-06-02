@@ -20,10 +20,10 @@ Gracias por usar este código! Porfavor, si tienes dudas, errores o preguntas so
 
 # Guía de Instalación 🔥
 
-  1. ```git
-git clone https://github.com/soylaurensdev/deembot-bot-del-canal
-npm install
-```
+  1. 
+  ```
+  git clone https://github.com/soylaurensdev/deembot-bot-del-canal
+  ```
     
   2. Descargar Python 3.11.3
   3. Ve a la carpeta `./Screenshots/installer.png` para ver lo que tienes que configurar
